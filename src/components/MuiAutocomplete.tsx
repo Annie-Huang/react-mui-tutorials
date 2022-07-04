@@ -8,15 +8,29 @@ const MuiAutocomplete = () => {
 
   console.log({ value });
 
+  /*
+  Without freeSolo:
+  - chevron down | chevron up icon will appear. No clear icon (cross).
+  - when you type script, 'Javascript' and 'TypeScript' will be in the list.
+      - press enter does nothing
+      - press down will go through the list in menu
+
+  With freeSolo:
+  - no chevron down | chevron up icon. Show cross icon.
+  - when you type script, 'Javascript' and 'TypeScript' will be in the list.
+      - press enter and you can see value attached into 'value' field
+      - press down will go through the list in menu
+  - when you type 'abc', dropdown menu is empty but you can press enter to see value attached into 'value' field
+  */
+
   return (
     <Stack spacing={2} width='250px'>
       <Autocomplete
         options={skills}
         renderInput={(params) => <TextField {...params} label='Skills' />}
         value={value}
-        onChange={(event: any, newValue: string | null) => {
-          setValue(newValue);
-        }}
+        onChange={(event: any, newValue: string | null) => setValue(newValue)}
+        freeSolo
       />
     </Stack>
   );
