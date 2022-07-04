@@ -1,0 +1,8 @@
+React Material UI Tutorial - 13 - Autocomplete (https://www.youtube.com/watch?v=5sgTF15fHqM)
+
+https://github.com/gopinav/React-MUI-Tutorials
+https://github.com/Annie-Huang/react-mui-tutorials
+
+---------------------------------------------------------------------------------
+
+PS C:\react> npx create-react-app react-mui-tutorials --template typescript --use-npm
