@@ -14,12 +14,14 @@ const MuiAutocomplete = () => {
   - when you type script, 'Javascript' and 'TypeScript' will be in the list.
       - press enter does nothing
       - press down will go through the list in menu
+      - when you pick something in the dropdown through enter key or mouse, the chevron icon and clear icon will both appear
 
   With freeSolo:
-  - no chevron down | chevron up icon. Show cross icon.
+  - no chevron down | chevron up icon. No cross icon.
   - when you type script, 'Javascript' and 'TypeScript' will be in the list.
       - press enter and you can see value attached into 'value' field
       - press down will go through the list in menu
+      - when you pick something in the dropdown through enter key or mouse, the clear icon will both appear
   - when you type 'abc', dropdown menu is empty but you can press enter to see value attached into 'value' field
   */
 
