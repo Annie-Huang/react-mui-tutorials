@@ -1,7 +1,12 @@
-import React from 'react';
+import './App.css';
+import MuiAutocomplete from './components/MuiAutocomplete';
 
 function App() {
-  return <div></div>;
+  return (
+    <div className='App'>
+      <MuiAutocomplete />
+    </div>
+  );
 }
 
 export default App;
