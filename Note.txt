@@ -1,10 +1,14 @@
 React Material UI Tutorial - 13 - Autocomplete (https://www.youtube.com/watch?v=5sgTF15fHqM)
+Customizing the Material-UI Autocomplete Component (https://www.youtube.com/watch?v=lf1ScjbG8QM)
 
 https://github.com/gopinav/React-MUI-Tutorials
 https://github.com/Annie-Huang/react-mui-tutorials
 
+https://smartdevpreneur.com/customizing-the-material-ui-autocomplete-component/
 ---------------------------------------------------------------------------------
 
 PS C:\react> npx create-react-app react-mui-tutorials --template typescript --use-npm
 PS C:\react\react-mui-tutorials> npm install @mui/material
 PS C:\react\react-mui-tutorials> npm install @mui/material @emotion/react @emotion/styled
+
+PS C:\react\react-mui-tutorials> npm install @material-ui/core --force
