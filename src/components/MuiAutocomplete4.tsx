@@ -140,6 +140,7 @@ const MuiAutocomplete4 = () => {
     <Autocomplete
       disablePortal
       options={records}
+      sx={{ width: 300 }}
       renderInput={(params) => (
         <TextField {...params} label='Select Products' />
       )}
