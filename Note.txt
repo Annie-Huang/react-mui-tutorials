@@ -1,6 +1,7 @@
 React Material UI Tutorial - 13 - Autocomplete (2022-03-10 https://www.youtube.com/watch?v=5sgTF15fHqM)
 Customizing the Material-UI Autocomplete Component (2021-03-10 https://www.youtube.com/watch?v=lf1ScjbG8QM)
 Autocomplete Search Using Material UI and API (2022-01-19 https://www.youtube.com/watch?v=wbJKtxrhSLA)
+React material UI tutorial #9 product categories using Autocomplete Component (2021-11-16 https://www.youtube.com/watch?v=qoGxbXyKh3s)
 
 https://github.com/gopinav/React-MUI-Tutorials
 https://github.com/Annie-Huang/react-mui-tutorials

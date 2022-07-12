@@ -22,7 +22,7 @@ const MuiAutocomplete3 = () => {
   return (
     <Stack sx={{ width: 300, margin: 'auto' }}>
       <Autocomplete
-        // complusory fields are options | renderInput
+        // compulsory fields are options | renderInput
         id='nba_player_demo'
         getOptionLabel={(jsonResult: Player) =>
           `${jsonResult.first_name} ${jsonResult.last_name}`
