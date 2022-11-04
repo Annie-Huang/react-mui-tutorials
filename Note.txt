@@ -8,6 +8,8 @@ https://github.com/Annie-Huang/react-mui-tutorials
 
 https://mui.com/material-ui/react-autocomplete/
 https://mui.com/material-ui/api/autocomplete/#props
+https://mui.com/material-ui/api/outlined-input/
+https://stackoverflow.com/questions/61256685/material-ui-autocomplete-styling
 
 https://smartdevpreneur.com/customizing-the-material-ui-autocomplete-component/
 https://www.balldontlie.io/#players
