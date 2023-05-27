@@ -2,7 +2,8 @@ import './App.css';
 import MuiAutocomplete from './components/MuiAutocomplete';
 import MuiAutocomplete2 from './components/MuiAutocomplete2';
 import MuiAutocomplete3 from './components/MuiAutocomplete3';
-import MuiAutocomplete4 from './components/MuiAutocomplete4';
+// import MuiAutocomplete4 from './components/MuiAutocomplete4';
+import MuiSelect from './components/MuiSelect';
 
 function App() {
   return (
@@ -10,7 +11,8 @@ function App() {
       {/*<MuiAutocomplete />*/}
       {/*<MuiAutocomplete2 />*/}
       {/*<MuiAutocomplete3 />*/}
-      <MuiAutocomplete4 />
+      {/*<MuiAutocomplete4 />*/}
+      <MuiSelect />
     </div>
   );
 }
