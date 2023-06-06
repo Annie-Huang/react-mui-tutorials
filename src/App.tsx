@@ -5,6 +5,7 @@ import MuiAutocomplete3 from './components/MuiAutocomplete3';
 // import MuiAutocomplete4 from './components/MuiAutocomplete4';
 import MuiSelect from './components/MuiSelect';
 import MuiPopper from './components/MuiPopper';
+import MuiPopover from './components/MuiPopover';
 
 function App() {
   return (
@@ -18,6 +19,10 @@ function App() {
       <br />
       <br />
       <MuiPopper />
+      <br />
+      <br />
+      <br />
+      <MuiPopover />
       <br />
       <br />
       <br />
