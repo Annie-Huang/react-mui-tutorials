@@ -20,3 +20,4 @@ PS C:\react\react-mui-tutorials> npm install @mui/material
 PS C:\react\react-mui-tutorials> npm install @mui/material @emotion/react @emotion/styled
 
 PS C:\react\react-mui-tutorials> npm install @material-ui/core --force
+ahuang23@CMC02FC0ZCML85 react-mui-tutorials % npm install @mui/icons-material
